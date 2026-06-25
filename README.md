@@ -11,5 +11,5 @@ This repository contains my completed internship tasks for CodeAlpha under the C
 
 ## Submitted By
 
-Sofiya Kumar
+Sobiya K P
 
